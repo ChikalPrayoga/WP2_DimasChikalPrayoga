@@ -17,3 +17,4 @@ class Latihan1 extends CI_Model
   $this->load->view('view-latihan1', $data);
 }
 }
+#update 10 oktober

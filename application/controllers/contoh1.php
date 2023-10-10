@@ -8,3 +8,4 @@ class contoh1 extends CI_Controller
     echo "Olahraga yang saya sukai adalah badminton.";
   }
 }
+#update 10 oktober
